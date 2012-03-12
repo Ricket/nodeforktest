@@ -1,4 +1,5 @@
-= Node cluster.fork process manager prototype =
+Node cluster.fork process manager prototype
+-------------------------------------------
 
 This is a sample of using Node.js's `cluster.fork()` function to spawn workers based on several processes, rather than the simple example of spawning one identical worker per CPU thread.
 
